@@ -1,0 +1,12 @@
+{
+  "bindings": [
+    {
+      "name": "queueMessage",
+      "type": "queueTrigger",
+      "direction": "in",
+      "queueName": "jobdef3m",
+      "connection": "JSONFUNCTIONAPP2421_QUEUE_STORAGE"
+    }
+  ],
+  "disabled": false
+}

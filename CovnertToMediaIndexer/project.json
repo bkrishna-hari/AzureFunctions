@@ -1,0 +1,13 @@
+{
+  "frameworks": {
+    "net46":{
+      "dependencies": {
+        "EntityFramework": "6.1.3",
+        "LinqKit": "1.1.7.2",
+        "Microsoft.Azure.WebJobs": "1.1.2",
+        "WindowsAzure.Storage": "7.2.1",
+        "WindowsAzure.MediaServices": "3.8.0.3"
+      }
+     }
+   }
+}
